@@ -1,16 +1,19 @@
 # Flow Runner
+<img width="512" height="384" alt="image" src="https://github.com/user-attachments/assets/186b4b10-e5fb-43e3-9f89-4009660ce75f" />
 
 ## Get Started
 
 Flow Runner는 복잡한 컴퓨터 과학 알고리즘과 자료구조를 시각적으로 체험하고 학습할 수 있도록 설계된 인터랙티브 웹 애플리케이션입니다.
 
-다음 링크에 접속하여 애플리케이션을 확인할 수 있습니다.
+다음 [링크](https://flow-runner-beta.vercel.app/ko)에 접속하여 애플리케이션을 확인할 수 있습니다.
 
-https://flow-runner-beta.vercel.app/ko
+<img width="1082" height="763" alt="image" src="https://github.com/user-attachments/assets/e434f7ab-c089-4082-babb-aba0c7ece553" />
 
 ## Overview
 
-Flow Runner는 알고리즘(정렬, 탐색, 그래프, 자료구조 등)의 실행 과정을 시각화하여 보여줍니다. 사용자는 애니메이션을 통해 단계별로 알고리즘이 동작하는 과정을 직관적으로 이해할 수 있으며, 다양한 프로그래밍 언어로 작성된 소스 코드와 상세 설명을 함께 보며 학습 효과를 높일 수 있습니다. 자동 재생과 수동 단계별 실행 모드를 모두 지원하여 자신의 학습 속도에 맞춰 이용 가능합니다.
+- Flow Runner는 알고리즘(정렬, 탐색, 그래프, 자료구조 등)의 실행 과정을 시각화하여 보여줍니다.
+- 사용자는 애니메이션을 통해 단계별로 알고리즘이 동작하는 과정을 직관적으로 이해할 수 있으며, 다양한 프로그래밍 언어로 작성된 소스 코드와 상세 설명을 함께 보며 학습 효과를 높일 수 있습니다.
+- 자동 재생과 수동 단계별 실행 모드를 모두 지원하여 자신의 학습 속도에 맞춰 이용 가능합니다.
 
 ### 주요 기능
 
